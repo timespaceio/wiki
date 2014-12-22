@@ -1,4 +1,6 @@
-wiki
-====
+TimeSpaceDB wiki
+================
 
-TimeSpaceDB wiki - http://timespace.io
+[Link to Wiki](https://github.com/timespaceio/wiki/wiki)
+
+More info: http://timespace.io
